@@ -1,0 +1,39 @@
+---
+layout: home
+author_profile: false
+---
+
+
+
+
+<div style="width:100vw; margin-left:calc(-50vw + 50%); margin-bottom:30px;">
+    <img src="{{ site.baseurl }}/assets/images/image-alignment-1200x4002.jpg" alt="header image"
+        style="width:100%; max-height:400px; object-fit:cover; border-radius:0px;">
+</div>
+
+
+
+<div style="text-align:center; margin-bottom:30px;">
+    <img src="{{ site.baseurl }}/assets/bio-photo-2.jpg" alt="Profile Image"
+        style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+    <h2>Yuta Kochi</h2>
+    <p>PhD student at Keio University</p>
+    <p>Email: <a href="mailto:yuta.kouchi@keio.jp">yuta.kouchi@keio.jp</a></p>
+    <p>Website: <a href="mailto:https://www.appi.keio.ac.jp/hayase/">Hayase Lab.</a></p>
+</div>
+
+
+
+{% for post in posts %}
+<article style="display: flex; align-items: center; margin-bottom: 20px;">
+    {% if post.header.image %}
+    <img src="{{ post.header.image }}" alt="thumbnail"
+        style="width: 150px; height: 100px; object-fit: cover; margin-right: 20px; border-radius: 8px;">
+    {% endif %}
+    <div>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+    </div>
+</article>
+{% endfor %}
+
