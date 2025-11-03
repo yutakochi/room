@@ -42,3 +42,27 @@ September in Nagoya (名古屋) was still very hot. This presentation was the cu
     </p>
   </div>
 </div>
+
+
+<div style="display: flex; justify-content: center; gap: 5px; margin-bottom:20px; flex-wrap: wrap;">
+  <div style="flex: 1 1 45%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/202509_asanbo.jpg" 
+         alt="Award lecture by junior student" 
+         style="width:100%; height:300px; object-fit:cover; border-radius: 5px;">
+    <p style="font-style:italic; margin:5px 0; text-align:left;">
+      Commemorative lecture for the junior student's award. He was still an undergraduate (4th year) at the time.
+    </p>
+  </div>
+  
+  <div style="flex: 1 1 45%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/202509_group.png" 
+         alt="Group photo" 
+         style="width:100%; height:300px; object-fit:cover; border-radius: 5px;">
+    <p style="font-style:italic; margin:5px 0;">
+      Our group photo
+    </p>
+  </div>
+</div>
+
+
+

@@ -10,7 +10,7 @@ categories:
 date: 2025-09-25
 ---
 
-I have received a postdoctoral offer from the Department of Physics at the Technical University of Denmark (DTU) today.
+I have received a postdoctoral offer from the Department of Physics at the Technical University of Denmark (DTU).
 
 I am looking forward to starting this new chapter.
 
