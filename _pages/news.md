@@ -4,16 +4,19 @@ permalink: /news/
 layout: single
 author_profile: true
 categories:
-  - Layout
+  - News
 ---
 
-{% assign posts = site.categories.Layout %}
+{% assign posts = site.categories.News %}
 {% for post in posts %}
-<article>
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {% if post.header.image %}
-  <img src="{{ post.header.image }}" alt="thumbnail" style="width:150px; height:100px; object-fit:cover;">
-  {% endif %}
-  <p>{{ post.excerpt }}</p>
+<article style="display: flex; align-items: center; margin-bottom: 20px;">
+    {% if post.header.image %}
+    <img src="{{ site.baseurl }}{{ post.header.image }}" alt="thumbnail"
+         style="width:150px; height:100px; object-fit:cover; border-radius:8px; margin-right: 20px;">
+    {% endif %}
+    <div>
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+    </div>
 </article>
 {% endfor %}
