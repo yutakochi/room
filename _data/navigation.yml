@@ -12,8 +12,8 @@ main:
   #   url: /sitemap/
   # - title: "Home"
   #   url: /
-  - title: "Research"
-    url: /research/
+  - title: "About"
+    url: /about/
   - title: "News"
     url: /news/
   - title: "Achievements"

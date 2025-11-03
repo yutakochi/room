@@ -1,5 +1,5 @@
 ---
-title: "趣味"
+title: "Hobby"
 layout: single
 permalink: /hobby/
 author_profile: true
