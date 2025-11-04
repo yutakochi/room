@@ -1,9 +1,13 @@
 ---
 layout: single
+header:
+  overlay_image: /assets/images/B113515D-9FAE-4855-8F0E-0E8CF8206D64.JPG
+  caption: "Photo by Yuta Kochi"
 author_profile: true
-title: "About Me"
+title: "About"
 permalink: /about/
 ---
+
 
 ## Research Interests
 - Ultrafast quantum optics and quantum photonics  

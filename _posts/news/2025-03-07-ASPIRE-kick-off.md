@@ -2,7 +2,7 @@
 title: "ASPIRE kick-off meeting, Copenhagen, Denmark (1/2)"
 header:
   overlay_image: /assets/images/202503_aspire_member.png
-  image: /assets/images/202503_aspire_member.png
+  image: /assets/images/202503_aspire_presentation.JPG
   caption: "Photo by Yuta Kochi"
 categories: 
   - News

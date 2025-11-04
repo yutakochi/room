@@ -1,5 +1,8 @@
 ---
 title: "News"
+header:
+  overlay_image: /assets/images/IMG_5538.jpg
+  caption: "Photo by Yuta Kochi"
 permalink: /news/
 layout: single
 author_profile: true

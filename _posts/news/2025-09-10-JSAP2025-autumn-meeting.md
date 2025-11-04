@@ -1,7 +1,7 @@
 ---
 title: "The 86th JSAP Autumn Meeting 2025, Nagoya, Japan"
 header:
-  image: /assets/images/202509_nagoyasta.jpg
+  image: /assets/images/202509_jsap_oral.jpg
   overlay_image: /assets/images/202509_nagoyasta.jpg
   caption: "Photo by Yuta Kochi"
 categories: 
@@ -60,7 +60,7 @@ September in Nagoya (名古屋) was still very hot. This presentation was the cu
     <img src="{{ site.baseurl }}/assets/images/202509_group.png" 
          alt="Group photo" 
          style="width:100%; height:300px; object-fit:cover; border-radius: 5px;">
-    <p style="font-style:italic; margin:5px 0;">
+    <p style="font-style:italic; margin:5px 0; text-align:center;">
       Our group photo
     </p>
   </div>
