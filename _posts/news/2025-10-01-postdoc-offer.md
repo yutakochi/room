@@ -6,7 +6,6 @@ header:
   caption: "Photo by Yuta Kochi"
 categories: 
   - News
-  - Conference
 date: 2025-09-25
 ---
 

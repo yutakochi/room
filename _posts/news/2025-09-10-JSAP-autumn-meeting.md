@@ -12,14 +12,16 @@ date: 2025-9-10
 
 I presented my research orally at the JSAP Autumn Meeting in Nagoya (Sep 7-10, 2025).  
 
-
+**Presentation title:**
+> *InAs量子ドット集合体への超短微弱信号コヒーレント保存及び周波数上方変換による高効率・高時間分解測定*
 
 <div style="text-align:center; margin-bottom:20px;">
-  <img src="{{ site.baseurl }}/assets/images/202509_nagoyasta.jpg" 
-       alt="Nagoya Station" 
-       style="width:70%; height:auto; border-radius: 5px;">
-  <p style="text-align:center; font-style:italic;">Arrival at Nagoya Station</p>
+  <img src="{{ site.baseurl }}/assets/images/202509_jsap_oral.jpg" 
+       alt="Presentation" 
+       style="width:100%; height:auto; border-radius: 5px;">
 </div>
+
+
 
 September in Nagoya (名古屋) was still very hot. This presentation was the culmination of my research so far, and I put a lot of effort into it.
 

@@ -7,12 +7,18 @@ header:
 categories: 
   - News
   - Conference
+  - Travel
 date: 2025-08-07
 ---
 
-I presented my research orally at the Optica Nonlinear Optics Topical Meeting in Waikiki, USA (Aug 4-7, 2025).  
+I gave an oral presentation at the Optica Nonlinear Optics Topical Meeting in Waikiki, USA (Aug 4-7, 2025).  
+
+**Presentation title:**
+> *Optimization for Femtosecond Regime Single Photon Detection via Frequency Up-Conversion*
 
 Although students in my lab in Japan were busy just before the Obon holidays, I was able to enjoy an early summer vacation.
+
+For more photos and content unrelated to the conference, [click here]({{ site.baseurl }}/travel/NLO-waikiki2/).
 
 <div style="display: flex; justify-content: center; gap: 5px; margin-bottom:20px; flex-wrap: wrap;">
   <div style="flex: 1 1 45%; text-align:center;">
